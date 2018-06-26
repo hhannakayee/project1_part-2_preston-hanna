@@ -1,12 +1,14 @@
-// Alert Mixin Settings Stylesheet
+// Button Settings Stylesheet
 // ========================================
 
-@mixin alert($background-value, $color-value) {
+@mixin button($background-value, $color-value) {
   background-color: $background-value;
   color: $color-value;
+  width: 250px;
   border-radius: 3px;
   padding: $spacer-m;
   margin-top: 15px;
   font-family: $secondary-font;
   font-weight: 400;
+  text-transform: capitalize;
 }

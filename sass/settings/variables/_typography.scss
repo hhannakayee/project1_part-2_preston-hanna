@@ -1,13 +1,18 @@
 // Typography Variables Settings Stylesheet
 // ===============================================
 
-// Font Families
-$primary-font: 'Nunito', sans-serif;
-$secondary-font: 'Bowlby One SC', cursive;
+// Google Fonts
+@import url(https://fonts.googleapis.com/css?family=Arvo:400,700|Chivo:400,400i,700,900);
+
+// Font Variables
+$primary-font: 'Arvo', serif;
+$secondary-font: 'Chivo', sans-serif;
 
 // Text Colors Map
 $type-colors: (
   'black':     ( black ),
-  'blue':      ( blue  ),
   'white':     ( white ),
+  'green':     ( green ),
+  'purple':    ( purple ),
+  'blue':      ( blue )
 );

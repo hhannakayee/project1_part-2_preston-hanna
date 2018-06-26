@@ -8,4 +8,14 @@
   .background--#{$name} {
     background-color: $background;
   }
+
+  .background--#{$name}-second {
+    @extend .background--#{$name};
+    opacity: 0.7;
+  }
+
+  .background--#{$name}-third {
+    @extend .background--#{$name};
+    opacity: 0.4;
+  }
 }
