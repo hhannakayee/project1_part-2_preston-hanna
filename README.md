@@ -1,22 +1,20 @@
 # Project 1 - Part 2
 
-Remove all contents from here down when you submit your project.
+## Links
 
----
+- [GitHub Repository](https://github.com/hhannakayee/project1_part-2_preston-hanna)
 
-1. Clone this repository
-2. Remove the existing .git folder (`rm -rf .git` in your terminal)
-3. Create a new Git repo in your project (`git init`)
-4. Update your .EditorConfig file with (at least) the following properties:
- * indent_style
- * insert_final_newline
- * trim_trailing_whitespace
-5. Add all existing files to the repo with a commit message of “initial commit”.
-6. Create a Repository on Github called `project-1_part-2_lastname-firstname`
-7. Push your existing repository from the command line
-8. Follow the directions for Project 1 - Part 2.
+- [Live Project](http://hannapreston.design/MMC6278/project-1_part-2_preston-hanna/)
 
----
+## Resources
 
-To get Sass running:
-Use `sass --watch sass:css --style compressed` on your command line
+- [Styling Dropdown Menu](https://fabriceleven.com/design/clever-way-to-change-the-drop-down-selector-arrow-icon/): I used this page to help style my select dropdown to not be the basic styling.
+
+- [SVG Icons](https://linearicons.com/free)
+- [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+
+## Comments
+
+- I still am not completely sure everywhere that I should be using Flexbox, does it need to be on most DIVs or only some?
+
+- I also still don't always know exactly when I need to use Sass or not, I wish we had done some smaller exercises with it beforehand.
